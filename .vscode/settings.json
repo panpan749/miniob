@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"array": "cpp",
+		"memory_resource": "cpp",
+		"list": "cpp",
+		"unordered_map": "cpp",
+		"unordered_set": "cpp",
+		"bitset": "cpp",
+		"string_view": "cpp",
+		"iosfwd": "cpp",
+		"format": "cpp",
+		"chrono": "cpp"
+	}
+}
